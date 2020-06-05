@@ -1,0 +1,13 @@
+#AWS
+#id - AKIA[0-9A-Z]{16}
+#key - [0-9a-zA-Z/+]{40}
+AKIAHKA6OJ3KKNLTI8FC
+sdfsdsdfsdsdfsdsdfsdsdfsdsdfsdsdfsdsdfsd
+
+#Bitly
+#id - [0-9a-zA-Z_]{5,31}
+#key - R_[0-9a-f]{32}
+9a9a9
+R_abcdefabcdefabcdefabcdefabcdefab
+
+05304a1d2581a70e5efe789f50128fddea50f2b3dfcb1977c3714489f040a8b92ee4da96567a21b76a18b7b89a4b38bfc6b89a6336e1f3daff2cc68875f0248d
